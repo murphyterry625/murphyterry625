@@ -3,14 +3,13 @@
 </div>
 
 <!-- markdownlint-disable-next-line -->
-<h1 align="center">David Leal</h1>
+<h1 align="center">Terry Murphy</h1>
 
 <h2 align="center">About myself 🗣</h2>
 
 <h3 align="center">Hey there! Thanks for visiting my profile! :wave:</h3>
 
-**Since I was 5 years old, I've been using computers and have been learning how to use them. 🖥**\
-**Since I was 7, I made simple videogames using GameMaker to have some fun playing them. 🎮**
+
 
 About 3 years ago (in 2019), I registered at GitHub to fix a single bug. Yes, just a single bug in a [Minetest](https://minetest.net) [mod](https://github.com/shivajiva101/smartshop),\
 and it has lead me to learn a lot about collaboration, open source, communication, and much more. 🚀
