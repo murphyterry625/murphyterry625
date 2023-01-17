@@ -1,2 +1,2 @@
 
-<img src="https://media1.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif?cid=790b76119a1d85f3aac7a3da930dbdff3ecaf7852225e4ff&rid=giphy.gif&ct=s" width="100"/>
+<img src="https://media2.giphy.com/media/iGqEXTSFZb29gb46bj/200w.webp?cid=ecf05e47944xjpul4o908pmyquf57mxw0ya2e7fan5s1u6zs&rid=200w.webp&ct=s" width="100"/>
